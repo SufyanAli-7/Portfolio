@@ -17,7 +17,7 @@
 
   function getFrameSrc(index) {
     const pad = String(index).padStart(3, '0');
-    return `assets/ezgif-frame-${pad}.png`;
+    return `assets/ezgif-frame-${pad}.jpg`;
   }
 
   // Zoomed-out cover image sizing: guarantees NO empty space on left or right, and properly frames the character
