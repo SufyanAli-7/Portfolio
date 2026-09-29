@@ -370,6 +370,14 @@ a {
   box-shadow: 0 6px 20px rgba(255, 255, 255, 0.25);
 }
 
+.social-round-btn[aria-label="WhatsApp"]:hover,
+.social-link[aria-label="WhatsApp"]:hover {
+  background: #25d366;
+  border-color: #25d366;
+  color: #ffffff;
+  box-shadow: 0 6px 20px rgba(37, 211, 102, 0.4);
+}
+
 .social-round-btn:active,
 .social-square-btn:active {
   transform: translateY(0);
