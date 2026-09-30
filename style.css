@@ -156,7 +156,7 @@ a {
 .nav-links {
   display: flex;
   align-items: center;
-  gap: 36px;
+  gap: clamp(16px, 2.2vw, 32px);
 }
 
 .nav-item {
@@ -169,6 +169,10 @@ a {
 
 .nav-item:hover {
   color: #ffffff;
+}
+
+section[id] {
+  scroll-margin-top: 100px;
 }
 
 .pill-btn {
