@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Smooth scroll-driven frame animation",
   "scripts": {
+    "build": "echo 'Static portfolio ready'",
     "dev": "node server.js"
   },
   "keywords": [],
