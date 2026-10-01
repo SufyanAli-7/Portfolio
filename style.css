@@ -892,6 +892,191 @@ section[id] {
 }
 
 /* ==========================================================================
+   Work Experience Section
+   ========================================================================== */
+.section-experience {
+  width: 100%;
+  margin-bottom: 110px;
+}
+
+.section-experience .section-title {
+  margin-bottom: 24px;
+}
+
+.experience-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+}
+
+.experience-card {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  border-radius: 18px;
+  padding: 28px 28px 26px 28px;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 20px;
+  transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.experience-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, rgba(238, 220, 185, 0.45), transparent);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.experience-card:hover {
+  border-color: var(--glass-hover-border);
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45);
+}
+
+.experience-card:hover::before {
+  opacity: 1;
+}
+
+.exp-card-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.exp-icon-wrap {
+  width: 46px;
+  height: 46px;
+  border-radius: 13px;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--accent-gold);
+  flex-shrink: 0;
+  transition: background 0.3s ease, transform 0.3s ease;
+}
+
+.experience-card:hover .exp-icon-wrap {
+  background: rgba(238, 220, 185, 0.12);
+  transform: scale(1.05);
+}
+
+.exp-header-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.exp-meta-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 8px;
+  flex-wrap: wrap;
+}
+
+.exp-badge {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent-gold);
+  background: rgba(238, 220, 185, 0.1);
+  border: 1px solid rgba(238, 220, 185, 0.25);
+  border-radius: 999px;
+  padding: 3px 10px;
+}
+
+.exp-date {
+  font-size: 0.74rem;
+  font-weight: 500;
+  color: #9aa2c0;
+  letter-spacing: 0.02em;
+}
+
+.exp-role {
+  font-size: 0.94rem;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0.02em;
+  margin-bottom: 6px;
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.7);
+  line-height: 1.35;
+}
+
+.exp-company-info {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.82rem;
+  color: #abb2d0;
+  flex-wrap: wrap;
+}
+
+.exp-company {
+  font-weight: 600;
+  color: #e2e8f0;
+}
+
+.exp-dot {
+  color: rgba(255, 255, 255, 0.3);
+  font-size: 0.7rem;
+}
+
+.exp-location {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: #8f98ba;
+  font-size: 0.78rem;
+}
+
+.exp-location svg {
+  color: #7b85a8;
+}
+
+.exp-card-body {
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  padding-top: 16px;
+}
+
+.exp-duties {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.exp-duties li {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 0.84rem;
+  line-height: 1.55;
+  color: #c4cce2;
+}
+
+.exp-check-icon {
+  color: var(--accent-gold);
+  flex-shrink: 0;
+  margin-top: 3px;
+  opacity: 0.95;
+}
+
+/* ==========================================================================
    Certifications & Education (Dedicated New Line Row)
    ========================================================================== */
 .section-certifications {
@@ -1396,6 +1581,9 @@ section[id] {
     grid-template-columns: 1fr;
   }
   .certifications-grid {
+    grid-template-columns: 1fr;
+  }
+  .experience-grid {
     grid-template-columns: 1fr;
   }
   .testimonials-grid {
