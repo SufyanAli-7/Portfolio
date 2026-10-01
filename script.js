@@ -21,7 +21,7 @@
   }
 
   // Zoomed-out cover image sizing: guarantees NO empty space on left or right, and properly frames the character
-  function drawCoverImage(img) {
+  function drawCoverImage(img, frameIdx) {
     if (!img || !img.complete || img.naturalWidth === 0) return;
 
     ctx.imageSmoothingEnabled = true;
@@ -44,8 +44,21 @@
     const nw = iw * scale;
     const nh = ih * scale;
 
-    // Center horizontally so left and right are flush with zero gap
-    const ox = (cw - nw) / 2;
+    // Horizontal framing:
+    // In portrait / mobile viewports (where horizontal overflow is cropped):
+    // In early frames (1 to ~55), the subject is turned in profile facing left.
+    // An anchor of 0.42 places his head in balanced view so the nose, glasses, lips
+    // and profile are never cut off.
+    // As the user scrolls and the character turns to face forward (by frame 55),
+    // smoothly interpolate to 0.50 (exact center).
+    let anchorX = 0.5;
+    if (cw < ch) {
+      const currentIdx = typeof frameIdx === 'number' ? frameIdx : (smoothedFrame || 1);
+      const turnProgress = Math.max(0, Math.min(1, (currentIdx - 1) / 55));
+      anchorX = 0.42 + turnProgress * (0.50 - 0.42);
+    }
+
+    const ox = (cw - nw) * anchorX;
 
     // Vertical framing:
     // When nh > ch, position with natural headroom so the character's head, glasses and suit are fully visible and not cut off at the top
@@ -70,7 +83,7 @@
     canvas.style.height = '100vh';
 
     if (lastDrawnFrame > 0 && images[lastDrawnFrame]) {
-      drawCoverImage(images[lastDrawnFrame]);
+      drawCoverImage(images[lastDrawnFrame], lastDrawnFrame);
     }
   }
 
@@ -97,7 +110,7 @@
 
     if (images[indexToDraw] && isLoaded[indexToDraw]) {
       if (indexToDraw !== lastDrawnFrame) {
-        drawCoverImage(images[indexToDraw]);
+        drawCoverImage(images[indexToDraw], smoothedFrame || indexToDraw);
         lastDrawnFrame = indexToDraw;
       }
     }
