@@ -13,7 +13,11 @@ const MIME_TYPES = {
   '.webp': 'image/webp',
   '.svg': 'image/svg+xml',
   '.json': 'application/json',
+  '.xml': 'application/xml; charset=utf-8',
+  '.txt': 'text/plain; charset=utf-8',
+  '.pdf': 'application/pdf',
 };
+
 
 const server = http.createServer((req, res) => {
   let reqUrl = req.url.split('?')[0];
