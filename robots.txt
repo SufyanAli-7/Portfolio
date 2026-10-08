@@ -1,4 +1,69 @@
+# robots.txt — https://www.sufyanali.dev
+# Policy: All AI crawlers explicitly ALLOWED for citation/visibility.
+# AI-optimized files: https://www.sufyanali.dev/llms.txt and https://www.sufyanali.dev/llms-full.txt
+
+# Default — all search engines and well-behaved crawlers
 User-agent: *
 Allow: /
+
+# ---- AI crawlers (allowed for AIO visibility) ----
+
+# GPTBot
+User-agent: GPTBot
+Allow: /
+
+# OAI-SearchBot
+User-agent: OAI-SearchBot
+Allow: /
+
+# ChatGPT-User
+User-agent: ChatGPT-User
+Allow: /
+
+# ClaudeBot
+User-agent: ClaudeBot
+Allow: /
+
+# Claude-Web
+User-agent: Claude-Web
+Allow: /
+
+# PerplexityBot
+User-agent: PerplexityBot
+Allow: /
+
+# Perplexity-User
+User-agent: Perplexity-User
+Allow: /
+
+# Google-Extended
+User-agent: Google-Extended
+Allow: /
+
+# CCBot
+User-agent: CCBot
+Allow: /
+
+# Applebot-Extended
+User-agent: Applebot-Extended
+Allow: /
+
+# Bytespider
+User-agent: Bytespider
+Allow: /
+
+# Amazonbot
+User-agent: Amazonbot
+Allow: /
+
+# cohere-ai
+User-agent: cohere-ai
+Allow: /
+
+# meta-externalagent
+User-agent: meta-externalagent
+Allow: /
+
+# ---- Endpoints ----
 
 Sitemap: https://www.sufyanali.dev/sitemap.xml

@@ -1,0 +1,60 @@
+# Muhammad Sufyan Ali — Full-Stack Web & Mobile App Developer
+
+> Muhammad Sufyan Ali is a Full-Stack Web & Mobile App Developer based in Faisalabad, Pakistan, with 3+ years of experience building modern web applications, cross-platform mobile apps (React Native & Expo), scalable SaaS systems, and MERN stack solutions. He has shipped 25+ projects for 20+ clients across 12 countries. Available for hire on freelance, contract, and remote collaborations.
+
+## About
+- [About Muhammad Sufyan Ali](https://sufyanali.dev/): Full-Stack Web & Mobile App Developer specializing in React, Next.js, React Native, Expo, Node.js, Express, MongoDB, PostgreSQL, and modern cross-platform web and mobile application engineering.
+
+## Services
+- [Mobile App Development (React Native & Expo)](https://sufyanali.dev/#capabilities): Mobile application development is engineering high-performance cross-platform iOS and Android apps using React Native and Expo — featuring fluid native interactions, state management, offline support, push notifications, and seamless REST/GraphQL API integration.
+- [Full-Stack Web Development](https://sufyanali.dev/#capabilities): Full-stack web development is the end-to-end design and engineering of a web application — covering responsive user interfaces, backend logic, secure APIs, and databases — delivered as complete, production-ready products.
+- [Next.js & React Development](https://sufyanali.dev/#capabilities): Next.js development is building fast, SEO-friendly, and responsive web applications with Next.js, React, and modern TypeScript toolchains.
+- [MERN Stack Development](https://sufyanali.dev/#capabilities): MERN stack development is engineering complete web solutions with MongoDB, Express.js, React, and Node.js — delivering a cohesive JavaScript/TypeScript stack.
+- [API & Backend Architecture](https://sufyanali.dev/#capabilities): Backend engineering is designing robust RESTful APIs, token-based authentication, and scalable microservices with Node.js and Express.
+- [SaaS Platform Development](https://sufyanali.dev/#capabilities): SaaS platform development is building multi-tenant, subscription-enabled web products with Stripe payments, user management, and responsive dashboards.
+- [AI & Generative AI Integration](https://sufyanali.dev/#capabilities): AI application engineering is integrating AI-powered features, multimodal generative AI models, and intelligent workflows into user-facing web and mobile interfaces.
+- [Database Architecture & Optimization](https://sufyanali.dev/#capabilities): Database design and performance optimization across MongoDB, PostgreSQL, Supabase, Prisma ORM, and Firebase.
+
+## Selected Work
+- [QuickCart](https://quick-cart-client-alpha.vercel.app/): Full-featured modern e-commerce web platform with product catalog, cart management, and seamless checkout experience. (E-Commerce · Web Application · React · Node.js)
+- [DevFolio](https://dev-folio-client.vercel.app/): Interactive developer portfolio showcasing modern UI/UX design, smooth animations, and responsive web performance. (Portfolio · Web Application · UI/UX)
+- [Marketing Agency Platform](https://markting-site-deploy-18-10-2025.vercel.app/): High-conversion digital marketing agency web application built for brand authority, lead generation, and fluid animations. (Agency · Web Application · Marketing)
+
+## Reviews & Testimonials
+- [Client Feedback](https://sufyanali.dev/#testimonials): 5.0/5 average rating across verified client engagements:
+  - "Sufyan engineered our SaaS platform from scratch. His ability to bridge sophisticated UI aesthetics with robust, scalable backend architecture delivered results 10x beyond our expectations." — Alex Rivera, CTO, CloudScale Tech
+  - "Exceptional attention to detail. The fluid animations, blazing-fast load speeds, and intuitive UX helped increase our conversion rate by 42% in just two months." — Elena Rostova, Product Lead, Astra Financial
+  - "Working with Sufyan was an absolute pleasure. Clear communication, zero friction, and high-impact delivery." — Marcus Vance, Founder, Elevate Brand
+
+## Experience
+- [Codiora Software House](https://sufyanali.dev/#experience): Full Stack Web Development Intern — Completed full-stack assignments, team collaboration, and on-time feature deliveries.
+- [DevelopersHub Corporation](https://sufyanali.dev/#experience): Full Stack Development Intern — Completed an intensive 6-week full-stack program adhering to professional development standards.
+
+## Education & Certifications
+- BS Software Engineering — Government College University Faisalabad (GCUF) (2021–2025)
+- Google Certified: Start Writing Prompts Like a Pro — Coursera
+- Google Certified: Foundations of Project Management — Coursera
+
+## Tech Stack
+- Mobile App Development: React Native, Expo, Expo Router, React Navigation
+- Frontend: React.js, Next.js, TypeScript, Tailwind CSS, Redux, HTML5, CSS3, JavaScript
+- Backend: Node.js, Express.js, REST APIs
+- Databases & ORM: MongoDB, PostgreSQL, Supabase, Prisma, Firebase
+- Tools & Cloud: Git, GitHub, Docker, Stripe, Vercel
+
+## Socials & Contact
+- Website: [sufyanali.dev](https://sufyanali.dev/)
+- Email: sufyan.ali0612@gmail.com
+- WhatsApp: [+92 301 7135273](https://wa.me/923017135273)
+- LinkedIn: [linkedin.com/in/m-sufyan-ali](https://www.linkedin.com/in/m-sufyan-ali/)
+- GitHub: [github.com/SufyanAli-7](https://github.com/SufyanAli-7)
+- Location: Faisalabad, Punjab, Pakistan (Available Remotely Worldwide)
+
+## FAQ
+- Who is Muhammad Sufyan Ali?
+- What services does Muhammad Sufyan Ali offer?
+- Does Muhammad Sufyan Ali build cross-platform mobile apps with React Native & Expo?
+- What tech stack does Muhammad Sufyan Ali use?
+- Is Muhammad Sufyan Ali available for hire?
+- Where is Muhammad Sufyan Ali located, and does he work remotely?
+- How can I hire or contact Muhammad Sufyan Ali?

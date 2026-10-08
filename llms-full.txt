@@ -1,0 +1,279 @@
+# Muhammad Sufyan Ali — Full-Stack Web & Mobile App Developer
+
+Full-Stack Web and Mobile App Developer specializing in building high-performance web applications, cross-platform mobile apps with React Native & Expo, scalable SaaS platforms, and MERN stack solutions.
+
+- **Location:** Faisalabad, Punjab, Pakistan (works remotely worldwide)
+- **Experience:** 3+ years
+- **Projects completed:** 25+ projects
+- **Clients:** 20+ satisfied clients across 12 countries
+- **Rating:** 5.0 / 5 across verified client engagements
+- **Education:** BS in Software Engineering — Government College University Faisalabad (GCUF) (2021–2025)
+- **Certifications:**
+  - Google Certified: Start Writing Prompts Like a Pro (Coursera)
+  - Google Certified: Foundations of Project Management (Coursera)
+- **Languages:** English, Urdu, Punjabi
+- **Email:** sufyan.ali0612@gmail.com
+- **Phone / WhatsApp:** +92 301 7135273 (https://wa.me/923017135273)
+- **Website:** https://sufyanali.dev/
+- **LinkedIn:** https://www.linkedin.com/in/m-sufyan-ali/
+- **GitHub:** https://github.com/SufyanAli-7
+
+---
+
+## Services
+
+### Full-Stack Web Development
+
+Full-stack web development is the end-to-end design and engineering of a web application — covering responsive user interfaces, frontend architecture, backend business logic, secure RESTful APIs, and databases — delivered as a complete, production-ready product.
+
+I engineer modern web applications from initial architecture to final cloud deployment: intuitive UI design, responsive frontend engineering, scalable API development, data modeling, authentication, payment gateways, and cloud hosting. Engagements typically ship production-grade MVPs in 3 to 8 weeks depending on scope.
+
+- **Tech:** React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, Tailwind CSS
+- **Starting price:** $3,000 USD — Starting estimate for a scoped MVP; custom fixed quotes provided after project discovery.
+- **Deliverables:**
+  - Production web application (responsive frontend + scalable backend)
+  - Secure REST API with authentication and role-based permissions
+  - Normalized database schema and query optimizations
+  - Automated deployment and hosting setup (Vercel / AWS / Node.js)
+  - Complete source code, documentation, and handover support
+
+### Mobile App Development (React Native & Expo)
+
+Mobile app development is engineering high-performance, cross-platform applications for iOS and Android using React Native and Expo — delivering fluid native performance, gesture animations, offline caching, and native device capabilities.
+
+I build cross-platform mobile apps that feel 100% native on both platforms with a single clean codebase: intuitive touch navigation, Expo Router, offline persistence, push notifications, camera/storage integration, and secure API connectivity.
+
+- **Tech:** React Native, Expo, Expo Router, TypeScript, Redux Toolkit, Native APIs, REST APIs
+- **Starting price:** $4,000 USD — Cross-platform iOS and Android builds scoped based on screen count and feature depth.
+- **Deliverables:**
+  - Cross-platform mobile app for iOS and Android
+  - Native gesture animations and responsive mobile layouts
+  - Push notification setup and offline caching layer
+  - API and state management integration
+  - App store / Play Store build configurations and APKs
+
+### MERN Stack Development
+
+MERN stack development is engineering full-stack web applications with MongoDB, Express.js, React, and Node.js — providing a unified, cohesive JavaScript/TypeScript workflow across the entire application stack.
+
+I build fast, modular MERN applications with strict separation of concerns: typed React/Next.js frontend components, Express.js REST API layer, and flexible document modeling in MongoDB or relational schemas in PostgreSQL.
+
+- **Tech:** MongoDB, Express.js, React.js, Node.js, TypeScript, Mongoose
+- **Starting price:** $3,000 USD — Typical MERN MVPs start at $3K and scale with custom feature requirements.
+- **Deliverables:**
+  - Full-stack MERN application (frontend + backend API + database)
+  - JWT authentication, password hashing, and role management
+  - Tested RESTful API endpoints with validation
+  - Production database setup with indexing and security rules
+  - Cloud deployment on Vercel and Node.js server environments
+
+### Next.js & Frontend Engineering
+
+Next.js frontend development is building ultra-fast, SEO-optimized, and accessible web interfaces using React, Server-Side Rendering (SSR), Static Site Generation (SSG), and modern CSS frameworks.
+
+I build visually stunning, interactive user interfaces with fluid animations, micro-interactions, dark modes, and glassmorphism. Optimized for Google Core Web Vitals, sub-second load times, and maximum conversion rates.
+
+- **Tech:** Next.js, React.js, TypeScript, Tailwind CSS, Canvas API, Redux
+- **Starting price:** $2,500 USD — Scoped for landing pages, design systems, and frontend dashboards.
+- **Deliverables:**
+  - Next.js web application with SSR/SSG optimization
+  - Pixel-perfect, mobile-first responsive layout
+  - High Lighthouse performance score (90+ on desktop & mobile)
+  - Dynamic interactive animations and state management
+  - SEO meta tags, Open Graph tags, and structured JSON-LD schemas
+
+### SaaS Platform Development
+
+SaaS platform development is building multi-tenant, subscription-based web applications with user onboarding, recurring billing, role-based access, and interactive admin dashboards.
+
+I engineer SaaS products from architecture to launch: user authentication, multi-tenant databases, Stripe subscription checkout, billing management, team roles, usage tracking, and administrative controls.
+
+- **Tech:** React, Next.js, Node.js, Express.js, Stripe, MongoDB, PostgreSQL, Supabase
+- **Starting price:** $6,000 USD — Complete SaaS builds typically range between $6K and $20K depending on features.
+- **Deliverables:**
+  - Multi-tenant SaaS web application
+  - Stripe subscription integration with webhooks and recurring billing
+  - User authentication and role-based access control (RBAC)
+  - Interactive user and admin dashboards
+  - Onboarding workflows and email notification triggers
+
+### API & Backend Architecture
+
+Backend engineering is designing robust, modular, and high-throughput REST APIs and server-side logic that handle data securely and scale reliably under user growth.
+
+I architect clean, maintainable backend services: token-based authentication (JWT), secure password hashing, rate limiting, request validation, database query optimization, error handling, and third-party API integrations.
+
+- **Tech:** Node.js, Express.js, REST APIs, JWT, Prisma, Supabase, Firebase
+- **Starting price:** $2,500 USD — Backend architectures and API endpoints scoped by complexity.
+- **Deliverables:**
+  - Modular, documented RESTful API endpoints
+  - Secure authentication and authorization middleware
+  - Database schema design, migrations, and relationship models
+  - Security protections (CORS, Helmet, rate limiting, validation)
+  - API documentation and Postman collections
+
+### AI & Generative AI Integration
+
+AI application engineering is integrating intelligent machine learning, language models, and automated generative workflows directly into user-facing web and mobile applications.
+
+I connect web and mobile platforms with state-of-the-art AI APIs (OpenAI, Anthropic, Gemini): prompt engineering, contextual assistants, content generation pipelines, document analysis, and conversational interfaces.
+
+- **Tech:** Node.js, Python, React, OpenAI API, Anthropic, Generative AI models
+- **Starting price:** $4,000 USD — AI feature integrations scale based on model complexity and workflows.
+- **Deliverables:**
+  - AI-powered web or mobile feature integration
+  - Custom prompt templates and response parsing pipelines
+  - Streaming responses and interactive chat interfaces
+  - Cost control, rate limiting, and fallback error handling
+  - Secure API key management and user quota tracking
+
+### Database Architecture & Optimization
+
+Database engineering is creating organized, efficient, and reliable database structures that store, query, and protect application data with low latency.
+
+I design and manage both NoSQL and relational databases: schema planning, foreign key relationships, document nesting, indexing strategies, Prisma ORM migrations, and Supabase integration.
+
+- **Tech:** MongoDB, PostgreSQL, Supabase, Prisma ORM, Firebase Realtime Database
+- **Starting price:** $2,000 USD — Database schema design, migrations, and performance tuning.
+- **Deliverables:**
+  - Normalized database schema design or MongoDB document modeling
+  - Prisma schema definitions and migration scripts
+  - Indexing strategies for high-frequency queries
+  - Security policies, backup strategies, and environment configurations
+
+---
+
+## Selected Work
+
+### QuickCart
+
+- **Category:** E-Commerce Platform · Web Application
+- **Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS, Vercel
+- **Live URL:** https://quick-cart-client-alpha.vercel.app/
+
+**Tagline:** Full-featured modern e-commerce web platform with product catalog, cart management, and seamless checkout experience.
+
+**Overview:** QuickCart is a modern e-commerce web application engineered for smooth online retail. It provides a dynamic product catalog with search, category filtering, cart state management, user authentication, and an intuitive checkout flow designed for high purchase conversion and speed.
+
+### DevFolio
+
+- **Category:** Developer Portfolio · Web Application
+- **Stack:** React, Next.js, TypeScript, Tailwind CSS, UI/UX Design, Vercel
+- **Live URL:** https://dev-folio-client.vercel.app/
+
+**Tagline:** Interactive developer portfolio showcasing modern UI/UX design, smooth animations, and responsive web performance.
+
+**Overview:** DevFolio is a high-craft portfolio web platform designed to present software engineering capabilities, interactive project showcases, client proof, and personal brand authority with fluid animations and responsive perfection across all screens.
+
+### Marketing Agency Platform
+
+- **Category:** Digital Marketing · Web Application
+- **Stack:** React, Next.js, Node.js, Tailwind CSS, Vercel
+- **Live URL:** https://markting-site-deploy-18-10-2025.vercel.app/
+
+**Tagline:** High-conversion digital marketing agency web application built for brand authority, lead generation, and fluid animations.
+
+**Overview:** A commercial agency website engineered to position brand expertise and capture qualified client leads. Features structured service offerings, interactive case studies, high-contrast visual design, and fast Core Web Vitals performance.
+
+---
+
+## Work Experience
+
+### Codiora Software House
+- **Role:** Full Stack Web Development Intern
+- **Duration:** 03 Jun 2026 – 03 Aug 2026
+- **Location:** Remote, Pakistan
+- **Overview:** Developed full-stack web application features, collaborated with senior developers on architecture decisions, refined responsive interfaces, and completed project milestones on tight delivery schedules.
+
+### DevelopersHub Corporation
+- **Role:** Full Stack Development Intern
+- **Duration:** 01 Jun 2026 – 14 Jul 2026
+- **Location:** Remote, Pakistan
+- **Overview:** Completed an intensive 6-week full-stack engineering program, focusing on clean code practices, RESTful API integrations, collaborative Git workflows, and robust frontend design.
+
+---
+
+## Education & Certifications
+
+- **BS Software Engineering:** Government College University Faisalabad (GCUF) (2021–2025)
+- **Start Writing Prompts Like a Pro:** Coursera • Google Verified
+- **Foundations of Project Management:** Coursera • Google Verified
+
+---
+
+## Client Reviews & Testimonials
+
+Aggregate rating: **5.0 / 5** across verified client reviews and startup collaborations.
+
+- *"Sufyan engineered our SaaS platform from scratch. His ability to bridge sophisticated UI aesthetics with robust, scalable backend architecture delivered results 10x beyond our expectations."*  
+  — **Alex Rivera**, CTO, CloudScale Tech
+
+- *"Exceptional attention to detail. The fluid animations, blazing-fast load speeds, and intuitive UX helped increase our conversion rate by 42% in just two months."*  
+  — **Elena Rostova**, Product Lead, Astra Financial
+
+- *"Working with Sufyan was an absolute pleasure. Clear communication, zero friction, and high-impact delivery. Great code really did feel invisible throughout our project."*  
+  — **Marcus Vance**, Founder, Elevate Brand
+
+---
+
+## Tech Stack Overview
+
+- **Mobile App Development:** React Native, Expo, Expo Router, React Navigation, Mobile UI/UX
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Redux Toolkit, HTML5, CSS3, JavaScript (ES6+), Canvas API
+- **Backend:** Node.js, Express.js, RESTful APIs, JWT Authentication, Microservices
+- **Databases & ORM:** MongoDB, PostgreSQL, Supabase, Prisma ORM, Firebase
+- **DevOps, Tools & Payments:** Git, GitHub, Docker, Stripe Payments, Vercel, Postman, Vite
+
+---
+
+## Frequently Asked Questions
+
+### Who is Muhammad Sufyan Ali?
+Muhammad Sufyan Ali is a Full-Stack Web & Mobile App Developer based in Faisalabad, Pakistan, with 3+ years of experience engineering modern web applications, cross-platform mobile apps (React Native & Expo), scalable SaaS systems, and MERN stack architectures. He has shipped 25+ projects for 20+ clients across 12 countries.
+
+### What services does Muhammad Sufyan Ali offer?
+Muhammad Sufyan Ali provides full-stack web development, cross-platform mobile app development (React Native & Expo), SaaS platform engineering, MERN stack solutions, Next.js frontend builds, REST API backend architecture, AI model integration, and database design.
+
+### Does Muhammad Sufyan Ali build cross-platform mobile apps?
+Yes. He engineers cross-platform mobile applications for iOS and Android using React Native and Expo. These include fluid touch gestures, native device integrations, push notifications, offline data synchronization, and complete backend API connections.
+
+### What tech stack does Muhammad Sufyan Ali specialize in?
+His core stack comprises React.js, Next.js, React Native, Expo, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, and Tailwind CSS. For cloud and integrations, he works with Stripe, Supabase, Prisma, Docker, and Vercel.
+
+### Is Muhammad Sufyan Ali available for hire?
+Yes. He is available for freelance projects, contract roles, MVP builds, and remote collaborations with clients worldwide. He can be contacted directly via email at sufyan.ali0612@gmail.com or on WhatsApp at +92 301 7135273.
+
+### How much does it cost to hire Muhammad Sufyan Ali?
+Pricing typically starts around $3,000 for a scoped MERN MVP, $4,000 for a cross-platform mobile app or AI integration, and $6,000+ for a multi-tenant SaaS platform. Following a quick discovery discussion, you receive a transparent fixed quote with milestones and deliverables.
+
+### Where is Muhammad Sufyan Ali located, and does he work remotely?
+Muhammad Sufyan Ali is based in Faisalabad, Punjab, Pakistan, and works remote-first with clients globally. He adapts comfortably to various international time zones (US, Europe, Middle East, and Asia) with clear, asynchronous communication and regular progress demos.
+
+### Does Muhammad Sufyan Ali build AI and SaaS platforms?
+Yes. He builds AI-powered workflows by integrating models from OpenAI, Anthropic, and Gemini, and creates full multi-tenant SaaS products complete with Stripe recurring subscriptions, user workspaces, and administrative analytics.
+
+### How long does a typical project take?
+A focused MVP usually takes 3 to 6 weeks, a cross-platform mobile app takes 4 to 8 weeks, and a full SaaS platform takes 6 to 12 weeks. Sufyan ships in structured milestones so you can test working software continuously.
+
+### How do I start a project with Muhammad Sufyan Ali?
+Send an email to sufyan.ali0612@gmail.com or message via WhatsApp (+92 301 7135273) with a brief overview of your idea, timeline, and budget. You will receive a response within 24 hours to schedule a discovery discussion and receive a structured quote.
+
+### Why hire Muhammad Sufyan Ali instead of an agency?
+Hiring Muhammad Sufyan Ali means working directly with the engineer who designs, writes, and deploys your software. There are no communication middlemen, no junior handoffs, and no bloated agency markups—giving you fast delivery, high craftsmanship, and total accountability.
+
+### Does Muhammad Sufyan Ali offer support and maintenance after launch?
+Yes. Every build includes a post-launch warranty period for bug fixes and smooth handover, alongside optional ongoing monthly maintenance for updates, feature additions, and infrastructure monitoring.
+
+---
+
+## Contact
+
+- **Email:** sufyan.ali0612@gmail.com
+- **WhatsApp:** [+92 301 7135273](https://wa.me/923017135273)
+- **Website:** [https://sufyanali.dev](https://sufyanali.dev)
+- **LinkedIn:** [https://www.linkedin.com/in/m-sufyan-ali/](https://www.linkedin.com/in/m-sufyan-ali/)
+- **GitHub:** [https://github.com/SufyanAli-7](https://github.com/SufyanAli-7)
+- **Project Inquiry:** Email your project brief (goals, timeline, and scope) to sufyan.ali0612@gmail.com for a response within 24 hours.
+
+---
+Generated from https://sufyanali.dev. This file is the canonical AI-ingestable full summary.
